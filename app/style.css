@@ -1,0 +1,11 @@
+#titleName, #ingredientsTitle {
+  text-align: center;
+}
+#deleteButton {
+  margin-left: 5px;
+  margin-right: 5px
+}
+#editButton {
+  margin-left: 5px;
+  margin-right: 5px
+}
